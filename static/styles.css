@@ -4,9 +4,9 @@ body {
     align-items: center;
     height: 100vh;
     margin: 0;
-    background-color: greenyellow;
+    background-color: white;
 }
 
 canvas {
-    border: 5px solid pink;
+    border: 5px solid black;
 }
